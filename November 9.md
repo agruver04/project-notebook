@@ -42,6 +42,8 @@ cube moving around! This might not seem like much but the fact that we can run
 the engine, generate our own model, and specify that model's basic behavior (e.g. 
 movement speed, ect.) is great!
 
+
+
 The next step is to replace the cube model and textures with something that looks
 nice (which shouldnt be too dificult, open source models and textures already exist),
 and then to make a bunch of them and come up with some kind of simplistic AI to
@@ -80,8 +82,10 @@ for meaningful strategy decisions without too much complication.
 **How much time did you spend on the project this week? If you're working in a
 team, how did you share the labor?**
 
-I think we spent about 4-5 hours working togeather on the language specification 
-over a few nights, I also spent 3-4 hours working with spring on my own. 
+I think we spent about 4 hours working togeather on the language specification 
+over a few nights, I also spent 3-4 hours working with spring on my own. And another
+hour doing my notebook. I'm also planning on figuring out our PC situation with Dodds 
+tomorrow morning. 
 
 I didn't do a great job of writing down the hours in which I was working this week so
 I'll try to do that more consistently next week. 
