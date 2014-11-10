@@ -40,9 +40,7 @@ Besides language design, I spent a fair amount of time messing around with sprin
 trying to get that off the ground and made a great amount of progress! We have a 
 cube moving around! This might not seem like much but the fact that we can run 
 the engine, generate our own model, and specify that model's basic behavior (e.g. 
-movement speed, ect.) is great!
-
-
+movement speed, ect.) is great! (A picture is included in the repo).
 
 The next step is to replace the cube model and textures with something that looks
 nice (which shouldnt be too dificult, open source models and textures already exist),
