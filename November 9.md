@@ -10,7 +10,9 @@ We decided that the core decisionmaking processes we were interested in impeleme
 could be abstracted into three main areas:
 
   1: Formation
+  
   2: Movement
+  
   3: Targeting
 
 In essence we're saying that every behavior the user wants for their units should
