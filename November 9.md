@@ -8,6 +8,7 @@ in spring.
 We made some interesting design decisions in the implementation of our language.
 We decided that the core decisionmaking processes we were interested in impelementing
 could be abstracted into three main areas:
+
   1: Formation
   2: Movement
   3: Targeting
