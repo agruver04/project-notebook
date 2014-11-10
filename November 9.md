@@ -2,13 +2,6 @@
 
 ## Description
 
-**TODO:** Fill in this part with information about your work this week:
-important design decisions, changes to previous decisions, open questions,
-exciting milestones, preliminary results, etc. Feel free to include images
-(e.g., a sketch of the design or a screenshot of a running program), links to
-code, and any other resources that you think will help clearly convey your
-design process.
-
 This week we fleshed out the design of our language and started messing around
 in spring. 
 
@@ -70,6 +63,7 @@ like as well as nail down the specifics of what IR->Evaluation looks like.
 you?**
 
 I have two questions. 
+
 1. Take a look at the language specification. If you were writing an RTS AI is there
 anything you would want to do that you cant do in our syntax.
 
