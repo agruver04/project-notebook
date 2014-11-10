@@ -9,6 +9,14 @@ exciting milestones, preliminary results, etc. Feel free to include images
 code, and any other resources that you think will help clearly convey your
 design process.
 
+This week we fleshed out the design of our language and started messing around
+in spring. 
+
+We made some interesting design decisions in the implementation of our language.
+We decided that the core decisionmaking processes we were interested in impelementing
+could be abstracted into three main areas:
+
+
 ## Questions
 
 **What is the most pressing issue for your project? What design decision do
