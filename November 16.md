@@ -23,5 +23,8 @@ team, how did you share the labor?**
 Talked about this above, we really didn't have a ton of time to coordinate this week and to be honest I know that Nathan wanted to look at the AI intermediate representation but I'm not sure how far into that he got. 
 
 ## Post-critique summary
+Tyler provided a lot of good feedback on our language, I think the most important pieces were that we should try to enforce linebreaks in our code if possible to make it more human readible, and to go for a weak-medium-strong setup instead of rock paper scissors. I'll have to talk to him more about what exactly his vision is here but I agree that the RPS setup runs the risk of leading to "build order wins". 
 
 ## Post-critique reflection
+
+Tyler's feedback was on point and makes the design of our game better!
