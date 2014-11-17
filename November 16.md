@@ -2,24 +2,25 @@
 
 ## Description
 
-**TODO:** Fill in this part with information about your work this week:
-important design decisions, changes to previous decisions, open questions,
-exciting milestones, preliminary results, etc. Feel free to include images
-(e.g., a sketch of the design or a screenshot of a running program), links to
-code, and any other resources that you think will help clearly convey your
-design process.
+This week ended up being pretty crazy so I only got to spend about 4 hours outside of class on the project, I'll make it up in the coming weeks. In that time I got computers for Nathan and our reviewers, although the one for our reviewers isn't set up yet. I also set up the first "real unit" of our game. We're planning on having three units total, and the other two should be easy after this one, which is nice. The unit looks good, can move around the map and shoot things - which is most of our "hello world" deliverable I would have loved to dive into the AI this week but we didn't end up having time. We'll try to make a lot of progress on that next week. 
 
+I also found a good tutorial of how things actually fit togeather in the engine which is critical, and we haven't really been able to rind so far. 
 ## Questions
 
 **What is the most pressing issue for your project? What design decision do
 you need to make, what implementation issue are you trying to solve, or how
 are you evaluating your design and implementation?**
 
+AI - still havent figured out the details of how that's going to work.
+
 **What questions do you have for your critique partners? How can they best help
 you?**
 
+To be honest I think the most helpful thing right now would be to look at Nathan's work. I would like to incorporate Ari's feedback into our language design sometime on monday night and have a second draft of that done, so just text me before you start the review tyler and we can talk about what you should look at. 
+
 **How much time did you spend on the project this week? If you're working in a
 team, how did you share the labor?**
+Talked about this above, we really didn't have a ton of time to coordinate this week and to be honest I know that Nathan wanted to look at the AI intermediate representation but I'm not sure how far into that he got. 
 
 ## Post-critique summary
 
