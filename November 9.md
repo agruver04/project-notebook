@@ -87,6 +87,16 @@ tomorrow morning.
 
 I didn't do a great job of writing down the hours in which I was working this week so
 I'll try to do that more consistently next week. 
+
 ## Post-critique summary
+Tyler brought up a lot of good things in his critique. He honed in on IQ as what makes our game unique, and brought up a lot of good design questions that we hadn't really considered. When we start building the game itself I think it will be critical to have some kind of well thought out plan for how many 5 IQ units it takes to bring the same value as a 10 IQ unit, etc., which is something Tyler pointed out. 
+
+He also emphasized keeping game engine coding to a minimum - which is a fear we share. Luckily, I feel like we've had good success with spring so far which means we'll be able to use it instead of a text based approach, which also would have been totally fine. 
 
 ## Post-critique reflection
+The feedback improved our project by making us consider important game design issues and deal with
+them in an intentional way. We'll have a better end result if we consider Tyler's questions about IQ 
+and decide how we feel about them before coding the actual game. 
+
+I'd also like to give a shoutout to Ari's advice that we standardize the conditionals, which we 
+did in our full language specification. 
