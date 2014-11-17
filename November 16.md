@@ -2,7 +2,7 @@
 
 ## Description
 
-This week ended up being pretty crazy so I only got to spend about 4 hours outside of class on the project, I'll make it up in the coming weeks. In that time I got computers for Nathan and our reviewers, although the one for our reviewers isn't set up yet. I also set up the first "real unit" of our game. We're planning on having three units total, and the other two should be easy after this one, which is nice. The unit looks good, can move around the map and shoot things - which is most of our "hello world" deliverable I would have loved to dive into the AI this week but we didn't end up having time. We'll try to make a lot of progress on that next week. 
+This week ended up being pretty crazy so I only got to spend about 4 hours outside of class on the project, I'll make it up in the coming weeks. In that time I got computers for Nathan and our reviewers, although the one for our reviewers isn't set up yet. I also set up the first "real unit" of our game. Picture in the notebook repo. We're planning on having three units total, and the other two should be easy after this one, which is nice. The unit looks good, can move around the map and shoot things - which is most of our "hello world" deliverable I would have loved to dive into the AI this week but we didn't end up having time. We'll try to make a lot of progress on that next week. 
 
 I also found a good tutorial of how things actually fit togeather in the engine which is critical, and we haven't really been able to rind so far. 
 ## Questions
