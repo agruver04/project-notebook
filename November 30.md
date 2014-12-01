@@ -29,9 +29,18 @@ time to get there.
 **What questions do you have for your critique partners? How can they best help
 you?**
 
+To be honest I don't really have any questions for my critique partner - If you ever want to see what
+we have Tyler just let me know and you can come check it out / give feedback, but again I'm not super interested
+in changing the art style or the "feel" of the units right now. I think that while those things are incredibly
+important in a real game they're kind of tangential to our main focus. 
+
+Hopefully, next week I'll have a lot of questions about game balance for you, as we will hopefully
+coded up most of the AI behaviors we want.
 
 **How much time did you spend on the project this week? If you're working in a
 team, how did you share the labor?**
+
+I spent about 9 hours working on the project this week, working alone (Nathan was home for thanksgiving).
 
 ## Post-critique summary
 
