@@ -31,5 +31,6 @@ team, how did you share the labor?**
 I worked for 6-7 hours this week to get the units into the engine and get everything working there. I know nathan worked on the abstract syntax tree, and we worked togeather on debugging the engine for an hour or two.
 
 ## Post-critique summary
-
+No critique this week.
 ## Post-critique reflection
+No critique this week.
