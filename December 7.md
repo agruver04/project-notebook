@@ -2,8 +2,6 @@
 
 ## Description
 
-**TODO:** Fill in this part with information about your work this week:
-
 This week I fleshed out the game (which amounted to creating different weapons and armor classes for each unit, as well as a bunch of bug fixes) and created two AIs. I added a long range weapon for the "double", a medium ranged weapon for the "int", and a short ranged ones for the "short". Additionally, I made some of the units weaker to particular weapons than others. After that I coded up two AIs. The basic AI has each unit select a random enemy unit and then attack it untill it dies, at which point it attacks a new randomly selected enemy unit. The second AI can select units intelligently. 
 
 ## Questions
